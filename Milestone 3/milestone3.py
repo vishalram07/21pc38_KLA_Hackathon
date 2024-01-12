@@ -2,8 +2,8 @@ import math
 import numpy as np
 import operator
 
-file1 = open('Milestone 3\Testcase1.txt', 'r')
-file2 = open('Milestone 3\Testcase1_out.txt','w')
+file1 = open('Milestone 3\Testcase3.txt', 'r')
+file2 = open('Milestone 3\Testcase3_out.txt','w')
 
 Lines = file1.readlines()
 data=[]
