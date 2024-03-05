@@ -1,3 +1,0 @@
-WaferDiameter:300
-NumberOfPoints:10
-Angle:45

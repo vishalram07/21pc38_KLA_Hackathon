@@ -1,3 +1,0 @@
-WaferDiameter:200
-NumberOfPoints:31
-Angle:150
